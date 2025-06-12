@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   color: #f0f0f0;
-  background: #0b1d51;
+  background: rgba(5, 10, 20, 0.75);
   overflow-x: hidden;
 }
 
